@@ -1,4 +1,4 @@
-package paymaya.packager;
+package pmy.packager;
 
 import java.io.InputStream;
 
